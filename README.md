@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lrfelps
-- 👀 I’m interested in soccer, video games, e-sports and technology.
+- 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning Javascript and CSS.
 - 📫 How to reach me: @lrfelps, steamcommunity.com/id/piazote. 
 
