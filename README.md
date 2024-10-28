@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lrfelps
-- 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning Javascript and CSS.
+- 👀 I’m interested in Backend Development.
+- 🌱 I’m currently learning C# and C.
 - 📫 How to reach me: @lrfelps, steamcommunity.com/id/piazote. 
 
 <!---
